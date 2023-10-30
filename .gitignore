@@ -1,0 +1,6 @@
+/data
+.vscode
+__pycache__
+
+saved_model.pth
+/DETR-Venv
